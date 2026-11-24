@@ -24,5 +24,5 @@ WO (word order)
 Work in progress. Started November 2026.
 
 ## Author
-Duy Nguyen, English Language student,
+Nguyen Khanh Duy, English Language student,
 Faculty of Foreign Languages, Dong Thap University
