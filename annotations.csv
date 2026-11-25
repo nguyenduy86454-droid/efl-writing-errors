@@ -1,0 +1,37 @@
+essay_id,sentence,error_type,corrected,AI_code,AI_detected,note
+E06,Online learning become a popular method for university students in recent years.,TNS,Online learning has become a popular method for university students in recent years.,TNS,Y,"""in recent years"" dùng hiện tại hoàn thành (has become)"
+E06,Many student prefer studying at home because it is more convenient.,NUM,Many students prefer studying at home because it is more convenient.,NUM,Y,
+E06,"However, online classes sometimes makes students feel lonely and less motivated.",SVA,"However, online classes sometimes make students feel lonely and less motivated.","SVA, NUM",N,AI sửa đúng nhưng gán thêm NUM cho chủ ngữ số nhiều classes
+E06,"Last semester, I study several subjects through the Internet and it was quite difficult.",TNS,"Last semester, I studied several subjects through the Internet and it was quite difficult.",TNS,Y,
+E06,Students need to responsible for their own learning progress.,OM,Students need to be responsible for their own learning progress.,OM,Y,"thiếu động từ to be sau ""need to"""
+E06,"Despite these challenges, online learning can provides many useful opportunities.",SVA,"Despite these challenges, online learning can provide many useful opportunities.",WF,N,AI sửa đúng (can provide) nhưng xếp lỗi chia động từ sau can vào WF
+E07,Many university students works part-time to earn money and gain experience.,SVA,Many university students work part-time to earn money and gain experience.,SVA,Y,
+E07,"I started work in a coffee shop two months ago, and I have learned many new skills.",WC,"I started working in a coffee shop two months ago, and I have learned many new skills.",WF,N,"start + V-ing (working) không có mã riêng, AI xếp WF cũng hợp lý"
+E07,"My manager is very friendly, but sometimes she give me too much tasks.","SVA, WC","My manager is very friendly, but sometimes she gives me too many tasks.","SVA, WC",Y,"""too much"" dùng với danh từ đếm được số nhiều ""tasks"" -> ""too many"""
+E07,I have to communicate with customers polite even when they are angry.,WF,I have to communicate with customers politely even when they are angry.,WF,Y,"dùng tính từ ""polite"" thay cho trạng từ ""politely"""
+E07,"Last weekend, I was very tired because I worked in the evening and finish my homework late.",TNS,"Last weekend, I was very tired because I worked in the evening and finished my homework late.",TNS,Y,
+E07,Having a part-time job helps students improves their communication skills.,SVA,Having a part-time job helps students improve their communication skills.,WF,N,AI sửa đúng (helps students improve) nhưng xếp dạng động từ sau help vào WF
+E08,A good friend is someone who always listen to you when you have problems.,SVA,A good friend is someone who always listens to you when you have problems.,SVA,Y,
+E08,I believe friendship are more valuable than expensive gifts.,SVA,I believe friendship is more valuable than expensive gifts.,SVA,Y,
+E08,My best friend always gives me an useful advice when I feel stressed.,"ART, NUM",My best friend always gives me useful advice when I feel stressed.,"ART, NUM",Y,"""advice"" không đếm được nên bỏ mạo từ ""an"""
+E08,"We first met in high school, but we became close with each other after joining a volunteer activity.",PREP,"We first met in high school, but we became close to each other after joining a volunteer activity.","PREP, WC",N,"AI bỏ luôn 'with each other' nên gán thêm WC, nghĩa câu vẫn tự nhiên"
+E08,She has a very kindness personality and never judges other people.,WF,She has a very kind personality and never judges other people.,WF,Y,"dùng danh từ ""kindness"" thay cho tính từ ""kind"""
+E08,"Yesterday, we goes to a small restaurant and talked about our future plans.","TNS, SVA","Yesterday, we went to a small restaurant and talked about our future plans.","SVA, TNS",Y,
+E09,Technology has changed the way people communicate with each other.,OK,,OK,Y,
+E09,"Nowadays, people can sends messages instantly even when they are far away.",SVA,"Nowadays, people can send messages instantly even when they are far away.",WF,N,AI sửa đúng (can send) nhưng xếp lỗi chia động từ sau can vào WF
+E09,"Although smartphones are useful, they can also have a negative affect on our concentration.",WC,"Although smartphones are useful, they can also have a negative effect on our concentration.",WF,N,"nhầm từ loại động từ affect / danh từ effect, AI gán WF khá hợp lý"
+E09,I often spend too much time to watch videos before going to bed.,WC,I often spend too much time watching videos before going to bed.,WF,N,"spend time + V-ing (watching), AI xếp dạng động từ vào WF cũng hợp lý"
+E09,"Some people believes that technology makes life easier, while others think it makes people less social.",SVA,"Some people believe that technology makes life easier, while others think it makes people less social.",SVA,Y,
+E09,"If we use technology wisely, it will helps us become more productive.",SVA,"If we use technology wisely, it will help us become more productive.",WF,N,AI sửa đúng (will help) nhưng xếp lỗi chia động từ sau will vào WF
+E10,Protecting the environment is one of the most important issue in modern society.,NUM,Protecting the environment is one of the most important issues in modern society.,NUM,Y,"sau ""one of the + so sánh nhất"" dùng danh từ số nhiều"
+E10,People should avoids using too many plastic bags when they go shopping.,SVA,People should avoid using too many plastic bags when they go shopping.,"WF, NUM",N,"sau ""should"" dùng V nguyên mẫu; AI xếp sang WF và thêm NUM, sửa câu vẫn hợp lý"
+E10,"Last year, our school organize a campaign to clean the local park.",TNS,"Last year, our school organized a campaign to clean the local park.",TNS,Y,
+E10,Many students participated on the activity and collected rubbish around the area.,PREP,Many students participated in the activity and collected rubbish around the area.,PREP,Y,participate in (không dùng participate on)
+E10,We should not throw trash careless because it can cause serious pollution.,WF,We should not throw trash carelessly because it can cause serious pollution.,WF,Y,"dùng tính từ ""careless"" thay cho trạng từ ""carelessly"""
+E10,Small actions can make a big different if everyone takes responsibility.,WF,Small actions can make a big difference if everyone takes responsibility.,WF,Y,"dùng tính từ ""different"" thay cho danh từ ""difference"""
+E06,Online courses allow students to review recorded lectures whenever they need.,OK,,OK,Y,
+E07,Working part-time teaches students how to manage their time and money effectively.,OK,,OK,Y,
+E08,True friends always support each other during difficult times.,OK,,OK,Y,
+E09,Modern devices help learners access educational materials from anywhere in the world.,OK,,OK,Y,
+E10,Recycling paper and plastic is a simple way to reduce household waste.,OK,,OK,Y,
+E10,Everyone should work together to keep our neighborhoods clean and green.,OK,,OK,Y,
